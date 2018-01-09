@@ -1,0 +1,13 @@
+name: next_word_predictor
+title: Next Word Predictor
+username:
+account: kmazarakis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 255105
+bundleId: 1168465
+url: https://kmazarakis.shinyapps.io/next_word_predictor/
+when: 1515498954.7486
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/reactor.png
